@@ -1,0 +1,15 @@
+START 
+	INPUT a, b, c
+	SET Diskriminan = b**2 - (4 * a * c)
+	IF Diskriminan >= 0 THEN 
+		PRINT "Akar Real/Nyata."
+
+		IF Diskriminan >0 THEN
+			PRINT "Akar Real dan Berlainan."
+		ELSE
+			PRINT "Akar Real dan Kembar."
+		ENDIF
+	ELSE
+		PRINT "Akar Imajiner/Tidak Real/Khayal."
+	ENDIF
+END

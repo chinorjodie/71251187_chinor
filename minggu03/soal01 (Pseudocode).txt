@@ -1,0 +1,19 @@
+START
+	INPUT num
+	SET i = 2
+
+	IF num <= 1 THEN
+		PRINT "Bukan bilangan prima"
+	ELSE
+		WHILE i < num DO 
+			IF num % i == 0 THEN
+			PRINT "Bukan bilangan prima"	
+
+			ELSE
+				i = i + 1
+			ENDIF
+		ENDWHILE
+
+		PRINT "Bilangan prima"
+	ENDIF
+END

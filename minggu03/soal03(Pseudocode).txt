@@ -1,0 +1,20 @@
+START
+	INPUT num
+
+	SET hasil = 1
+	SET temp = num
+
+	IF num < 0 THEN
+		PRINT "Maaf, factorial tidak bisa dihitung"
+	ELSE IF num == 0 THEN
+		PRINT "Faktorial dari 0 adalah 1"
+	ELSE 
+		WHILE temp > 0
+			hasil = hasil * temp
+			temp = temp - 1 
+		ENDWHILE 	
+		
+		PRINT hasil 
+	ENDIF 
+
+END
