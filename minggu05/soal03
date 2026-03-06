@@ -1,0 +1,6 @@
+fahrenheit = lambda c: (9/5) * c + 32 
+reamur = lambda c: 0.8 * c 
+print(" Input C = 100 ->  Output F =", fahrenheit(100)) 
+print(" Input C = 80 -> Output R =", reamur(80)) 
+print(" Input C = 0 ->   Output F =", fahrenheit(0)) 
+
