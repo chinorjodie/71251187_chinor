@@ -1,0 +1,4 @@
+Python adalah bahasa pemrograman yang populer dan mudah dipelajari.
+Bahasa ini sering digunakan untuk data science, web development, dan otomasi.
+Python memiliki sintaks yang bersih dan komunitas yang besar.
+Banyak perusahaan teknologi menggunakan Python dalam produk mereka.

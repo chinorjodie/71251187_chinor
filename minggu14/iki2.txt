@@ -1,0 +1,4 @@
+Java adalah bahasa pemrograman yang populer di dunia enterprise.
+Bahasa ini digunakan untuk web development, aplikasi mobile, dan sistem besar.
+Java memiliki performa yang baik dan komunitas yang aktif.
+Banyak bank dan perusahaan besar menggunakan Java untuk sistem mereka.
